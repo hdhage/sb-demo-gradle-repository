@@ -18,7 +18,7 @@ public class DemoController {
 
     @GetMapping
     public String getDemoMsg() {
-        return "Entering app hello";
+        return "Entering app namaskar";
     }
 
     @GetMapping("/emp")
